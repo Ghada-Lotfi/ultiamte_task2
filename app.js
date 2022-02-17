@@ -45,7 +45,6 @@ app.get("/api/v1/add", (req, res) => {
   
 
     res.status(200).send({
-        success: 'true',
         result
     })
 
