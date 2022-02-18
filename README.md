@@ -13,6 +13,6 @@ task 2
 		
 		- The command to run the file will be as follows: npm start
 
-4) The following request will then be executed on your local browser: http://localhost:5000/api/v1/add?country=UK&city=London 
+4) The following request will then be executed on your local browser: http://localhost:5000/api/v1/add?country=Country&city=City 
 
-5) country and city are changed according to requested area
+5) country and city are changed according to requested area, example: http://localhost:5000/api/v1/add?country=UK&city=London 
